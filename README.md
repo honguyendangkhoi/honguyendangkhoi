@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Khoi 👋
 
-<!--
-**honguyendangkhoi/honguyendangkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Telecommunications Engineering Student.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux Administration
+- Networking
+- AWS Cloud
+- Python Automation
+- DevOps
+
+## Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+## Current Projects
+
+- Linux Automation Scripts
+- Python Learning Projects
+- AWS Labs
+- Terraform Labs
+
+## Goals
+
+- AWS Solutions Architect Associate
+- Cloud Engineer
+- DevOps Engineer
