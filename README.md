@@ -1,4 +1,4 @@
-# Hi, I'm Khoi 👋
+# Hi, I'm Khôi 👋
 
 Final-year Telecommunications Engineering student interested in Linux, Networking and Cloud Computing.
 
@@ -44,5 +44,5 @@ Library Management System built using C++ and object-oriented programming princi
 
 ## Contact
 
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-url
+- Email: khoioh1234@gmail.com
+- LinkedIn: https://www.linkedin.com/in/h%E1%BB%93-kh%C3%B4i-6a8ba1161/
