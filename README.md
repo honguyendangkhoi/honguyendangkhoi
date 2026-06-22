@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Linux+%7C+Networking+%7C+Cloud;Learning+AWS+and+Automation;Cloud+Engineer+in+Progress" />
+</p>
+
 # Hi, I'm Khôi 👋
 
 Final-year Telecommunications Engineering student interested in Linux, Networking and Cloud Computing.
