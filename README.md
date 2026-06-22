@@ -30,3 +30,9 @@ Interested in:
 - AWS Solutions Architect Associate
 - Cloud Engineer
 - DevOps Engineer
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honguyendangkhoi&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honguyendangkhoi&layout=compact)
