@@ -36,3 +36,7 @@ Interested in:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honguyendangkhoi&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honguyendangkhoi&layout=compact)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Linux+%7C+Networking+%7C+AWS;Cloud+Engineer+in+Progress" />
+</p>
