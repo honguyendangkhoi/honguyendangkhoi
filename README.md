@@ -1,42 +1,48 @@
 # Hi, I'm Khoi 👋
 
-Final-year Telecommunications Engineering Student.
+Final-year Telecommunications Engineering student interested in Linux, Networking and Cloud Computing.
 
-Interested in:
+## About Me
 
-- Linux Administration
-- Networking
-- AWS Cloud
-- Python Automation
-- DevOps
+- 🎓 Final-year Telecommunications Engineering student
+- 🐧 Learning Linux system administration and networking
+- ☁️ Exploring AWS Cloud and automation
+- 🐍 Building projects with Python and Bash
+- 🎯 Goal: Cloud Engineer
 
 ## Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-
-## Current Projects
-
-- Linux Automation Scripts
-- Python Learning Projects
-- AWS Labs
-- Terraform Labs
-
-## Goals
-
-- AWS Solutions Architect Associate
-- Cloud Engineer
-- DevOps Engineer
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honguyendangkhoi&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honguyendangkhoi&layout=compact)
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Linux+%7C+Networking+%7C+AWS;Cloud+Engineer+in+Progress" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,aws,vscode" />
 </p>
+
+## Featured Projects
+
+### Bash Script
+Linux automation and administration scripts for daily tasks and practice.
+
+### Python Projects From Scratch
+Small Python projects used to strengthen programming fundamentals and problem-solving skills.
+
+### Digital Signal Processing
+University project related to digital signal processing concepts and implementation.
+
+### Object-Oriented Programming
+Library Management System built using C++ and object-oriented programming principles.
+
+## Currently Learning
+
+- AWS Cloud
+- Docker
+- Terraform
+- Linux Administration
+- Network Fundamentals
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=honguyendangkhoi&theme=github-dark)
+
+## Contact
+
+- Email: your-email@example.com
+- LinkedIn: your-linkedin-url
