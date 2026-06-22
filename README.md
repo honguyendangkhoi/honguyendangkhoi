@@ -22,17 +22,14 @@ Final-year Telecommunications Engineering student interested in Linux, Networkin
 
 ## Featured Projects
 
-### Bash Script
-Linux automation and administration scripts for daily tasks and practice.
+### Python-Projects-From-scratch
+Collection of small Python projects for learning fundamentals, Git workflow, and basic problem-solving.
 
-### Python Projects From Scratch
-Small Python projects used to strengthen programming fundamentals and problem-solving skills.
+### Bash-script
+Linux-focused Bash scripts for automation and practicing CLI skills, loops, conditions, and system tasks.
 
-### Digital Signal Processing
-University project related to digital signal processing concepts and implementation.
-
-### Object-Oriented Programming
-Library Management System built using C++ and object-oriented programming principles.
+### Spamshield-Capy
+Capstone project built with Jupyter Notebook for spam detection/analysis. Focused on data handling, basic ML workflow, and practical application.
 
 ## Currently Learning
 
