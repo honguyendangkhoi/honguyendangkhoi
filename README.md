@@ -30,7 +30,7 @@ Collection of small Python projects for learning fundamentals, Git workflow, and
 Linux-focused Bash scripts for automation and practicing CLI skills, loops, conditions, and system tasks.
 
 ### Spamshield-Capy
-Capstone project built with Jupyter Notebook for spam detection/analysis. Focused on data handling, basic ML workflow, and practical application.
+Graduation capstone project building a Serverless Secure Email Gateway via Chrome Extension and AWS Microservices (API Gateway, Lambda, DynamoDB). It implements a Hybrid AI Engine utilizing AWS SageMaker (ViBERTa) and Groq API (Llama-3.1) for real-time HAM, SPAM, and SCAM classification.
 
 ## Currently Learning
 
