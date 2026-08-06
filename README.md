@@ -47,4 +47,4 @@ Graduation capstone project building a Serverless Secure Email Gateway via Chrom
 ## Contact
 
 - Email: khoioh1234@gmail.com
-- LinkedIn: https://www.linkedin.com/in/h%E1%BB%93-kh%C3%B4i-6a8ba1161/
+- LinkedIn: www.linkedin.com/in/khoiho1234
